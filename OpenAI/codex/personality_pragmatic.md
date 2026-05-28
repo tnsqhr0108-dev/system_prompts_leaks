@@ -1,9 +1,9 @@
 # Codex Personality — Pragmatic
 
 **Source key:** `model_messages.instructions_variables.personality_pragmatic`  
-**Used by:** `gpt-5.4`, `gpt-5.4-mini`, `gpt-5.3-codex`  
-**Fetched at:** 2026-04-11T18:08:13.251889Z  
-**Client version:** 0.119.0
+**Used by:** `gpt-5.4`, `gpt-5.4-mini`, `gpt-5.3-codex`, `gpt-5.3-codex-spark`, `codex-auto-review`  
+**Fetched at:** 2026-04-26T13:18:08.462205Z  
+**Client version:** 0.125.0  
 
 ---
 
